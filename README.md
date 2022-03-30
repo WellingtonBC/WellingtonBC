@@ -1,6 +1,6 @@
 ### Eai, me chamo Wellington e esse aqui é meu perfil do GitHub, seja bem vindo(a) !!!  💙
 
-- 🎯 Eu atualmente estou procurando me especializar em Front-End.
+- 🎯 Atualmente estou procurando me especializar em Front-End.
 - 🧙🏽‍♂️ Tenho um bom domino nas seguintes tecnologias: HTML5, CSS3, Git e GitHub.
 - 🌱 Aprimorando meu JavaScript no momento.
 - 🤔 Tenho interesse em aprender: TyperScript; ReactJS.
