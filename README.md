@@ -6,7 +6,7 @@
 - 🤔 Tenho interesse em aprender: TyperScript; ReactJS.
 - 💬 Sou Brasileiro, beemm Carioca/ Tenho 23 Anos e faço aniversario no dia 10-06/ 
 - 😄 Pronomes: Ele-Dele
-- ⚡ Fato Engraçado: Mesmo sem curso considero minha escrita e leitura em Inglês até que boas, mas ainda não sou seguro de colocar esse fato em curriculos Hahah.
+- ⚡ Fato Engraçado: Mesmo sem curso considero minha escrita e leitura em Inglês até que boas, mas ainda não sou seguro de colocar esse adicional em curriculos Hahah.
 
 ##
 
