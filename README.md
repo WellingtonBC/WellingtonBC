@@ -7,7 +7,9 @@
 - 💬 Sou Brasileiro, beemm Carioca/ Tenho 23 Anos e faço aniversario no dia 10-06/ 
 - 😄 Pronomes: Ele-Dele
 - ⚡ Fato Engraçado: Mesmo sem curso considero minha escrita e leitura em Inglês até que boas, mas ainda não sou seguro de colocar esse fato em curriculos Hahah.
+
 ##
+
 <div align="center">
   <a href="https://github.com/WellingtonBC">
   <img height="131em" src="https://github-readme-stats.vercel.app/api?username=WellingtonBC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,7 +29,7 @@
   
   <div> 
      <a href="https://www.facebook.com/Wellington.Buscacio/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-     <a href="https://twitter.com/kblin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/kbli.n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellington-borges-corr%C3%AAa-673809232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://twitter.com/kblin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+   <a href="https://instagram.com/kbli.n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wellington-borges-corr%C3%AAa-673809232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
